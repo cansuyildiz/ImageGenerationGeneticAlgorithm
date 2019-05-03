@@ -1,6 +1,6 @@
 # Image Generation Using Shapes with Genetic Algorithm
 
-__ELİF CANSU YILDIZ - SALİH MARANGOZ__
+__Authors: ELİF CANSU YILDIZ - SALİH MARANGOZ__
 
    * [Image Generation Using Shapes with Genetic Algorithm](#image-generation-using-shapes-with-genetic-algorithm)
       * [Genetic Algorithm](#genetic-algorithm)
