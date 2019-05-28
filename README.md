@@ -25,8 +25,6 @@ Five phases are considered in a genetic algorithm.
 4. Crossover
 5. Mutation
 
-<img src="img/genetic_phases.png" alt="Drawing" style="width: 50%;" align="center"/>
-
 For more explanation about genetic algorithms, you can follow this [website](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 
 
